@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="109956" started-at="2018-11-24T07:30:55Z" finished-at="2018-11-24T07:32:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="109956" started-at="2018-11-24T07:30:55Z" finished-at="2018-11-24T07:32:45Z">
+      <class name="Mercurymvndemo">
+        <test-method status="PASS" signature="Open_browser()[pri:0, instance:Mercurymvndemo@5e5792a0]" name="Open_browser" is-config="true" duration-ms="31337" started-at="2018-11-24T07:30:24Z" finished-at="2018-11-24T07:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method status="PASS" signature="Enter_Application()[pri:0, instance:Mercurymvndemo@5e5792a0]" name="Enter_Application" is-config="true" duration-ms="11846" started-at="2018-11-24T07:30:55Z" finished-at="2018-11-24T07:31:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enter_Application -->
+        <test-method status="PASS" signature="Maximize()[pri:1, instance:Mercurymvndemo@5e5792a0]" name="Maximize" duration-ms="1301" started-at="2018-11-24T07:31:07Z" finished-at="2018-11-24T07:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Maximize -->
+        <test-method status="PASS" signature="Loginwithvaliddetalis()[pri:2, instance:Mercurymvndemo@5e5792a0]" name="Loginwithvaliddetalis" duration-ms="96652" started-at="2018-11-24T07:31:08Z" finished-at="2018-11-24T07:32:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginwithvaliddetalis -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Mercurymvndemo@5e5792a0]" name="afterSuite" is-config="true" duration-ms="245" started-at="2018-11-24T07:32:45Z" finished-at="2018-11-24T07:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Mercurymvndemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
