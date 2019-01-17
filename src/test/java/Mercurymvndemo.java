@@ -13,6 +13,7 @@ public class Mercurymvndemo {
 	
   @Test(priority=1)
   public void Maximize() {
+	  System.out.println("changes in local driver");
 	  driver.manage().window().maximize();
   }
   @Test(priority=2)
